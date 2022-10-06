@@ -108,7 +108,7 @@ main{
 }
 
 .navlist.active{
-    transform: translateX(30px);
+    transform: translateX(20px);
     display: flex;
 }
 
